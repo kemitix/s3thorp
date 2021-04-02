@@ -18,7 +18,7 @@
     <properties>
         <tiles-maven-plugin.version>2.18</tiles-maven-plugin.version>
         <kemitix-maven-tiles.version>2.7.0</kemitix-maven-tiles.version>
-        <lombok.version>1.18.16</lombok.version>
+        <lombok.version>1.18.20</lombok.version>
         <mon.version>2.2.0</mon.version>
         <junit.version>5.7.0</junit.version>
         <assertj.version>3.19.0</assertj.version>
